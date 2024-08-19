@@ -1,0 +1,34 @@
+body {
+    background-color: #aabaf0;
+    color:white;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: 0;
+
+}
+
+button {
+    background-color: #aaf1e6;
+    color: rgb(3, 3, 3);
+    font-family: "Edu AU VIC WA NT Hand";
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
